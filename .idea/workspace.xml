@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2604eafe-30e5-471a-9e83-e8ad9168f4fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/posts/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/posts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
@@ -58,7 +55,7 @@
       <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="8" selection-start="227" selection-end="227" vertical-scroll-proportion="0.32242423" vertical-offset="0" max-vertical-offset="825">
+            <state line="11" column="33" selection-start="194" selection-end="194" vertical-scroll-proportion="0.25333333" vertical-offset="0" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
@@ -474,7 +471,11 @@
       <created>1388871534665</created>
       <updated>1388871534665</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="a&#10;">
+      <created>1388872380364</created>
+      <updated>1388872380364</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -606,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="227" selection-end="227" vertical-scroll-proportion="0.32242423" vertical-offset="0" max-vertical-offset="825">
+        <state line="11" column="33" selection-start="194" selection-end="194" vertical-scroll-proportion="0.25333333" vertical-offset="0" max-vertical-offset="825">
           <folding />
         </state>
       </provider>
