@@ -2,12 +2,198 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2604eafe-30e5-471a-9e83-e8ad9168f4fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/_comment.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/comments/_form.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/models/post.rb" afterPath="$PROJECT_DIR$/app/models/post.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/13.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/14.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/15.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/8.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/callouts/9.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/akshaysurve.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/belongs_to.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/book_icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/bullet.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/caution.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/challenge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/chapters_icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/check_bullet.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/confirm_dialog.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/credits_pic_blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/csrf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/i18n/demo_html_safe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/i18n/demo_localized_pirate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/i18n/demo_translated_en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/i18n/demo_translated_pirate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/i18n/demo_translation_missing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/i18n/demo_untranslated.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/edge_badge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/example.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/feature_tile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/footer_tile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/forbidden_attributes_for_new_post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/form_with_errors.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/fxn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/grey_bullet.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/habtm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/has_many.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/has_many_through.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/has_one.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/has_one_through.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/header_backdrop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/header_tile.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/important.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/index_action_with_edit_link.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/jaimeiniesta.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/nav_arrow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/new_post.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/note.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/oscardelben.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/polymorphic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/post_with_comments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/prev.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/radar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/rails4_features.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/rails_guides_kindle_cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/rails_guides_logo.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/rails_logo_remix.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/rails_welcome.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/routing_error_no_controller.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/routing_error_no_route_matches.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/session_fixation.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/show_action_for_posts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/tab_grey.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/tab_info.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/tab_note.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/tab_red.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/tab_yellow.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/tab_yellow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/template_is_missing_posts_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/tip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/undefined_method_post_path.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/unknown_action_create_for_posts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/getting_started/unknown_action_new_for_posts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/up.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/vijaydev.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/2_2_release_notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/2_3_release_notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/3_0_release_notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/3_1_release_notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/3_2_release_notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/4_0_release_notes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/images/icons/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/_license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/_welcome.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/action_controller_overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/action_mailer_basics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/action_view_overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/active_model_basics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/active_record_basics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/active_record_callbacks.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/active_record_querying.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/active_record_validations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/active_support_core_extensions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/active_support_instrumentation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/api_documentation_guidelines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/asset_pipeline.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/association_basics.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/caching_with_rails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/command_line.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/configuring.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/contributing_to_ruby_on_rails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/credits.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/debugging_rails_applications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/development_dependencies_install.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/engines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/fixes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/form_helpers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/generators.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/getting_started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/guides.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/i18n.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/initialization.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/kindle.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/layout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/layouts_and_rendering.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/maintenance_policy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/migrations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/nested_model_forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/plugins.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/rails_application_templates.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/rails_on_rack.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/responsive-tables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/responsive-tables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/routing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/ruby_on_rails_guides_guidelines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/security.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushAS3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushAppleScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushBash.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushCSharp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushColdFusion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushCpp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushCss.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushDelphi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushDiff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushErlang.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushGroovy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushJScript.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushJava.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushJavaFX.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushPerl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushPhp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushPlain.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushPowerShell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushPython.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushRuby.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushSass.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushScala.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushSql.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushVb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shBrushXml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCore.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/javascripts/syntaxhighlighter/shCore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shCoreRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeDefault.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeDjango.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeEclipse.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeEmacs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeFadeToGrey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeMDUltra.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeMidnight.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeRDark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/syntaxhighlighter/shThemeRailsGuides.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/stylesheets/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/testing.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/upgrading_ruby_on_rails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/guides/working_with_javascript_in_rails.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/blog.iml" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/posts_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/posts_controller.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/posts/show.html.erb" afterPath="$PROJECT_DIR$/app/views/posts/show.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="blog.iws" />
@@ -34,16 +220,16 @@
       <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/posts/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="558">
+            <state line="8" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="558">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="posts_controller.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="posts_controller.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="5" selection-start="358" selection-end="358" vertical-scroll-proportion="0.4031355" vertical-offset="0" max-vertical-offset="1116">
+            <state line="24" column="5" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
               <folding />
             </state>
           </provider>
@@ -58,10 +244,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comments_controller.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="comments_controller.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/comments_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="5" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="360">
+            <state line="5" column="5" selection-start="221" selection-end="221" vertical-scroll-proportion="0.095338985" vertical-offset="0" max-vertical-offset="944">
               <folding />
             </state>
           </provider>
@@ -88,7 +274,7 @@
       <file leaf-file-name="_form.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/comments/_form.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="9" selection-start="273" selection-end="273" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="324">
+            <state line="12" column="9" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="324">
               <folding />
             </state>
           </provider>
@@ -106,7 +292,7 @@
       <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/routes.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="11" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1170">
+            <state line="24" column="11" selection-start="786" selection-end="786" vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1170">
               <folding />
             </state>
           </provider>
@@ -153,10 +339,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="3" />
-    <option name="y" value="24" />
-    <option name="width" value="1174" />
-    <option name="height" value="1056" />
+    <option name="x" value="62" />
+    <option name="y" value="-4" />
+    <option name="width" value="1859" />
+    <option name="height" value="1085" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -248,162 +434,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="welcome" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="posts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="comments" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="models" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="helpers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="blog" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView" />
       <pane id="Scope" />
+      <pane id="RailsProjectView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -656,15 +690,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3" y="24" width="1174" height="1056" extended-state="4" />
-    <editor active="true" />
+    <frame x="62" y="-4" width="1859" height="1085" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.22687225" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35682818" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20088495" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24954627" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19911504" sideWeight="0.49936947" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20110193" sideWeight="0.49936947" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28039926" sideWeight="0.5006305" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12665199" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -672,12 +706,12 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32929516" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.17951542" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -710,9 +744,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="8" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="646">
-          <folding />
-        </state>
+        <state line="16" column="8" selection-start="509" selection-end="509" vertical-scroll-proportion="0.0" vertical-offset="304" max-vertical-offset="646" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/schema.rb">
@@ -743,23 +775,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="14" column="8" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304">
-          <folding />
-        </state>
+        <state line="10" column="22" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/post.rb">
@@ -771,9 +797,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437">
-          <folding />
-        </state>
+        <state line="12" column="7" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="437" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140104212050_create_posts.rb">
@@ -792,23 +816,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="14" column="8" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304">
-          <folding />
-        </state>
+        <state line="10" column="22" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/post.rb">
@@ -820,9 +838,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="21" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="437">
-          <folding />
-        </state>
+        <state line="13" column="21" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="247" max-vertical-offset="437" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140104212050_create_posts.rb">
@@ -841,23 +857,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="8" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380">
-          <folding />
-        </state>
+        <state line="14" column="8" selection-start="267" selection-end="267" vertical-scroll-proportion="0.0" vertical-offset="266" max-vertical-offset="380" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="38" max-vertical-offset="152" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="22" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304">
-          <folding />
-        </state>
+        <state line="10" column="22" selection-start="134" selection-end="134" vertical-scroll-proportion="0.0" vertical-offset="190" max-vertical-offset="304" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/post.rb">
@@ -869,16 +879,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="396">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
-          <folding />
-        </state>
+        <state line="16" column="0" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bin/rake">
@@ -915,37 +921,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="144">
-          <folding />
-        </state>
+        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="144" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="964">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="964" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="40" selection-end="40" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="162">
-          <folding />
-        </state>
+        <state line="1" column="20" selection-start="40" selection-end="40" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="162" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="42" selection-end="42" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="162">
-          <folding />
-        </state>
+        <state line="1" column="20" selection-start="42" selection-end="42" vertical-scroll-proportion="-0.6666667" vertical-offset="0" max-vertical-offset="162" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="507" selection-end="507" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="432">
-          <folding />
-        </state>
+        <state line="18" column="8" selection-start="507" selection-end="507" vertical-scroll-proportion="-12.0" vertical-offset="0" max-vertical-offset="432" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20140104212050_create_posts.rb">
@@ -957,9 +953,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/welcome_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="964">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="964" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/helpers/posts_helper.rb">
@@ -992,44 +986,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="-5.3333335" vertical-offset="0" max-vertical-offset="558">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/comment.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="893">
+        <state line="8" column="21" selection-start="344" selection-end="344" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="558">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/comments/_form.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="9" selection-start="273" selection-end="273" vertical-scroll-proportion="-8.0" vertical-offset="0" max-vertical-offset="324">
+        <state line="12" column="9" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="324">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/posts/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="29" selection-start="212" selection-end="212" vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="396">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/comments/_comment.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="4" selection-start="274" selection-end="274" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="360">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/comments_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="5" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="360">
-          <folding />
-        </state>
+        <state line="13" column="29" selection-start="212" selection-end="212" vertical-scroll-proportion="-8.666667" vertical-offset="0" max-vertical-offset="396" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/models/post.rb">
@@ -1041,7 +1012,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/posts_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="5" selection-start="358" selection-end="358" vertical-scroll-proportion="0.4031355" vertical-offset="0" max-vertical-offset="1116">
+        <state line="24" column="5" selection-start="400" selection-end="400" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1116">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/comments/_comment.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="4" selection-start="274" selection-end="274" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="360">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/comment.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="893">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/comments_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="221" selection-end="221" vertical-scroll-proportion="0.095338985" vertical-offset="0" max-vertical-offset="944">
           <folding />
         </state>
       </provider>
